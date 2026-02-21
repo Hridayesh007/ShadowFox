@@ -1,3 +1,8 @@
+# 6.1 List of Tuples
+friends = ["Aditya", "Beatrix", "Charlie", "Danielle", "Emerson"]
+friend_lengths = [(name, len(name)) for name in friends]
+print(f"Friend Name Lengths: {friend_lengths}")
+
 # 6.2 Expense Tracker
 your_expenses = {"Hotel": 1200, "Food": 800, "Transportation": 500, "Attractions": 300, "Misc": 200}
 partner_expenses = {"Hotel": 1000, "Food": 900, "Transportation": 600, "Attractions": 400, "Misc": 150}
