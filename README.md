@@ -7,7 +7,7 @@ This repository contains the tasks completed during my **Python Development Inte
 - **Role:** Python Development Intern
 
 ## 📂 Project Structure
-
+```text
 ShadowFox/
 ├── Level_Beginner/
 │   ├── task1_variables.py
@@ -16,7 +16,7 @@ ShadowFox/
 │   ├── task4_if_condition.py
 │   └── task6_dictionary.py
 └── README.md
-
+```
 ### Beginner Level Tasks
 | Task File | Description | Concepts Covered |
 | :--- | :--- | :--- |
