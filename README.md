@@ -37,13 +37,13 @@ ShadowFox/
 | `task4_if_condition.py` | BMI & City/Country Tracker | Conditional logic, User input, Dictionaries |
 | `task6_dictionary.py` | Expense Tracker & Tuples | Key-value pairs, List comprehensions |
 
----
 ### Intermediate Level Tasks
 | Task File | Description | Concepts Covered |
 | :--- | :--- | :--- |
 | `task1_web_scraper.py` | Web Scraper | BeautifulSoup, Pagination, CSV Export, Exception Handling |
 | `task2_hangman.py` | Hangman Game | ASCII Art UI, Dictionaries, Input Validation, Game Loops |
 
+---
 
 ## 🎥 Proof of Work (POW)
 As per the internship requirements, screenshots of these tasks have been shared on my **LinkedIn profile**.
