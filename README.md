@@ -27,7 +27,7 @@ ShadowFox/
 | `task6_dictionary.py` | Expense Tracker & Tuples | Key-value pairs, List comprehensions |
 
 ## 🎥 Proof of Work (POW)
-As per the internship requirements, video explanations and screenshots of these tasks have been shared on my **LinkedIn profile**.
+As per the internship requirements, screenshots of these tasks have been shared on my **LinkedIn profile**.
 
 ---
 *Developed by Puttamraju Krishna Hridayesh Kumar*
